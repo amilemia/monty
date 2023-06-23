@@ -9,6 +9,7 @@ global_t data = {0};
  *
  * Return: 0 on success, EXIT_FAILURE on failure
  */
+
 int main(int argc, char **argv)
 {
 	if (argc != 2)
